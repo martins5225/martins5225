@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source and Web applications**
 
-- 👨‍💻 All of my projects are available at [https://victormartins.dev/](https://victormartins.dev/)
+- 👨‍💻 All of my projects are available [here](https://victormartins.dev/)
 
 - 💬 Ask me about **Software Engineering, Tech and Productivity**
 
