@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">I’m an experienced Software Engineer skilled in building scalable web applications and delivering high-quality solutions.</h3>
 
-- 🔭 I’m currently working on [Munch](https://www.getmunch.co/)
-
 - 🌱 I have experience with **Javascript, Typescript, React, Redux, Next.js, Node.js, Expess.js, MongoDB, PostgreSQL, Docker and AWS**
 
 - 👯 I’m looking to collaborate on **Open-Source and Web applications**
@@ -14,8 +12,6 @@
 - 📫 You can reach me via [mail](mailto:martinsvictor287@gmail.com)
 
 - 📄 Checkout my resume [here](https://drive.google.com/file/d/1lRy4hSR074O_fHktxwRyed8Yw1BwV2TL/view?usp=sharing)
-
-- ⚡ Fun fact **I can play the piano really well 🎹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
