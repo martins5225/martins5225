@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">I’m an experienced Software Engineer skilled in building scalable web applications and delivering high-quality solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martins5225&label=Profile%20views&color=0e75b6&style=flat" alt="martins5225" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martins5225" alt="martins5225" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thedrmartins" target="blank"><img src="https://img.shields.io/twitter/follow/thedrmartins?logo=twitter&style=for-the-badge" alt="thedrmartins" /></a> </p>
-
 - 🔭 I’m currently working on [Munch](https://www.getmunch.co/)
 
 - 🌱 I have experience with **Javascript, Typescript, React, Redux, Next.js, Node.js, Expess.js, MongoDB, PostgreSQL, Docker and AWS**
