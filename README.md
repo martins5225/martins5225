@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **martinsvictor287@gmail.com**
 
-- 📄 Checkout my resume [https://drive.google.com/file/d/1lRy4hSR074O_fHktxwRyed8Yw1BwV2TL/view?usp=sharing](https://drive.google.com/file/d/1lRy4hSR074O_fHktxwRyed8Yw1BwV2TL/view?usp=sharing)
+- 📄 Checkout my resume [here](https://drive.google.com/file/d/1lRy4hSR074O_fHktxwRyed8Yw1BwV2TL/view?usp=sharing)
 
 - ⚡ Fun fact **I can play the piano really well 🎹**
 
