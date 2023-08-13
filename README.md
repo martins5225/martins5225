@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects and Web applications**
 
-- 👨‍💻 All of my projects are available [here](https://victormartins.dev/)
+- 👨‍💻 All of my projects are available [here](https://martinsflow.webflow.io/)
 
 - 💬 Ask me about **Software Engineering, Tech and Productivity**
 
 - 📫 You can reach me via [mail](mailto:martinsvictor287@gmail.com)
 
-- 📄 Checkout my resume [here](https://drive.google.com/file/d/1lRy4hSR074O_fHktxwRyed8Yw1BwV2TL/view?usp=sharing)
+- 📄 Checkout my resume [here](https://drive.google.com/file/d/1z1HpWdf6N3VAOLJcBmmxXOKITj3fnqpb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
