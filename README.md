@@ -3,7 +3,7 @@
 
 - 🌱 I have experience with **Javascript, Typescript, React, Redux, Next.js, Node.js, Expess.js, MongoDB, PostgreSQL, Docker and AWS**
 
-- 👯 I’m looking to collaborate on **Open-Source Projects and Web applications**
+- 👯 I’m looking to collaborate on **Open-Source Projects and Web Applications**
 
 - 👨‍💻 All of my projects are available [here](https://martinsflow.webflow.io/)
 
