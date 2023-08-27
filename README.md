@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects and Web Applications**
 
-- 👨‍💻 All of my projects are available [here](https://martinsflow.webflow.io/)
+- 👨‍💻 All my projects are available [here](https://martinsflow.webflow.io/)
 
 - 💬 Ask me about **Software Engineering, Tech and Productivity**
 
