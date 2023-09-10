@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">I’m an experienced Software Engineer skilled in building scalable web applications and delivering high-quality solutions.</h3>
+<h3 align="center">I’m an Full-Stack Software Engineer skilled in building scalable web applications and delivering high-quality solutions.</h3>
 
 - 🌱 I have experience with **Javascript, Typescript, React, Redux, Next.js, Node.js, Expess.js, MongoDB, PostgreSQL, Docker and AWS**
 
