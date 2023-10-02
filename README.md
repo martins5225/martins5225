@@ -7,7 +7,7 @@
 
 - 👨‍💻 All my projects are available [here](https://martinsflow.webflow.io/)
 
-- 💬 Ask me about **Software Engineering, Tech and Productivity**
+- 💬 Ask me anything about **Software Engineering, Tech and Productivity**
 
 - 📫 You can reach me via [mail](mailto:martinsvictor287@gmail.com)
 
