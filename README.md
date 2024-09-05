@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Victor</h1>
 <h3>I’m a Full-Stack Software Engineer skilled in building innovative and scalable web applications.</h3>
 
-- 🌱 I have experience with **Javascript, Typescript, React, Redux, Next.js, Node.js, Expess.js, MongoDB, PostgreSQL, Docker and AWS**
+- 🌱 I have experience with **Javascript, Typescript, React, Redux, Next.js, Python, Node.js, Expess.js, MongoDB, PostgreSQL, Docker and AWS**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects and Web Applications**
 
